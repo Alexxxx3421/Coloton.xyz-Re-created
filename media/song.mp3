@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="../css/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="../favicon.ico" onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            satyr.wtf
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url(&#x27;../images/transparent_9.gif&#x27;)"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            satyr.wtf needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/assets/audio/song.mp3?__cf_chl_f_tk=Lszw4eZuZGjlczyFl.KZxbXIZ7N5jpxtjv.g3kHmqo8-1670845608-0-gaNycGzNCKU" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="z1upETrH4Nt1aOgs8HjFdUHHT24YPEPrZn.0gdGIpUo-1670845608-0-AW8jNQvN9hM7xJdK7_zs7G1oWP0pyQUL2qoK19tPDoZWHg2p4vBpzxGL8djm85ocw-UUt3ZJh-JIJQ16lS3Y2S1aTDHUk_74cJXe9rbks5CchZkq9alLnRvAVtXqbPeDY2Kp4qxlrd67bj531fcGnav_ExiblS863qSC8wEIrshASfT3uNRhGP3MmTMTqz61powU33vkLiyPyiymEqTn-kl6UzdMQWbs7p3MEZ9g87M-E54rarAIKQwpp3dsupHu3kFOMxa_hCwM44ozr7dovc15OXVLFIbnstOXBs_MfBroK65R8OV0h1nfgH7N-RI93u-L2Kf7mOzRca3uXjJGzlPfcWOcj9TpQC2Ry-kLTF9--qH4mQPu753drkflCf1Fjj8h73_ImqLYkWd_bi_55eAunkfImuXULHr0GS1YXRWDboAYjCAKsnP0nLRspg-wpg0MWqkyVli1OwI47CE3viJnxiH5JoGbbx2MTZadUPnvHban9ycd8T5tIzN6LiH_PqgCDwHV65hOdDJpOoySYRD1FosztU5KbECEGDHKyimu7KNETqHvUAA_MJpN5sxiGDSQ7BgNOObOlmyC_GAy30XyDfGFoCnB9OiV3qU4h7S7OW7eIeW9SPkBwiQC6RLVGLpawHII-mwRNRAnmR1SNOcPru-oUZTXtfbJI6KpQiyV_6403iu-iJQUUSpH3taPag">
+            <input type="hidden" name="r" value="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">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '69192',
+            cRay: '778638bd59b8b8ba',
+            cHash: 'b0044d16df581db',
+            cUPMDTk: "\/assets\/audio\/song.mp3?__cf_chl_tk=Lszw4eZuZGjlczyFl.KZxbXIZ7N5jpxtjv.g3kHmqo8-1670845608-0-gaNycGzNCKU",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9zYXR5ci53dGYvYXNzZXRzL2F1ZGlvL3NvbmcubXAz',
+                ra: 'Tk9fVUE=',
+                rm: 'R0VU',
+                d: 'h1o0bTBNjba2wYyO81n8F1Yj/eaakk+mrlbAC+UCj+lFiUlMFaGGztT0zgHG1712G3IYqeSTI5QosMX7F3bzuPKLxXiO7Ued/DCFQy0qTfhvXUIk75DvTl6kzRpQ59R2V8Ft1Y/i1wBKdru+57XtUfMi9h3c/DsZyjGXydmDZl8D7z67XJAWV7P4InjKFgar0UuWSNQGHM1q+jR3cDKkZIjnNj9YLPHTgBpa/iu2aDUwpRQfb0Bobb5BTBtigZkpglb0szqwGoc+1gPWWOvuuzV9BJDtLoBY3fV8LEJUYA8Y494zvooO0lMs7ck+wJsWf+yqp02BYvyknk5uqg0HuUYS8ZajIPmNnmIrtZ1kxjCAQ4bb4KOaFZTaas6RqLZhxqIUd4MRyi+zyXq/lIcHkbLO0whxH+RY11m7OhLncqqdIKb1pAaa5lfFhpmq+sQB+S1iCwnSx1FHbWvxDUkoqsHZkouFnntBHisqnQwlfh0A2riwqRj6e+CkwdCoQCJVwwJVmiCpXYadGrmvP/bzxtssd2xiPWPceauSYub18pELrnJpaUrd5WrR1rerrK09MyXp7CataYxujnsPQvBAyxPClq27Y2sF32Lk2T+b2C/Qeyymt/6oGZyDBpPtMEfc4cIgP/dlK+owknZUOK3hsg==',
+                t: 'MTY3MDg0NTYwOC41NTUwMDA=',
+                m: 'eOt5kWhkaR/SVio/4GQW48fncZKyYq49K8IgAf6QS48=',
+                i1: 'HjJwLRfdu4IrG2AiKHQ5cQ==',
+                i2: 'bz/77cUHBXtx64qCQ2VLcA==',
+                zh: 'S4b6z2ZpczpLvqcthf6efnNW/iFe2R2Hfhh/zZ+XIxc=',
+                uh: 'DV4j3Tmrbi5Rs1q3ahwVS6SgbPbI7np5884QO1u1Cgg=',
+                hh: 'tdfNti6E96Zfqwlq03PZ/7uLhJxjprXuYWRtflicMVI=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=778638bd59b8b8ba');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=778638bd59b8b8ba';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/assets\/audio\/song.mp3?__cf_chl_rt_tk=Lszw4eZuZGjlczyFl.KZxbXIZ7N5jpxtjv.g3kHmqo8-1670845608-0-gaNycGzNCKU" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>778638bd59b8b8ba</code></div>
+            </div>
+            <div class="text-center">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
